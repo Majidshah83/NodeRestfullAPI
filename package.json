@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Majidshah83/NodeRestfullAPI/issues"
   },
-  "homepage": "https://github.com/Majidshah83/NodeRestfullAPI#readme"
+  "homepage": "https://github.com/Majidshah83/NodeRestfullAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
